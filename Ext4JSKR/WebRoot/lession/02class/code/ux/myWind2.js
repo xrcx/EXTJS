@@ -6,6 +6,7 @@
 			    config:{
 			    	price:500
 			    },
+			    
 				initComponent: function() {
 					//this.title='init title';
 					this.callParent();
